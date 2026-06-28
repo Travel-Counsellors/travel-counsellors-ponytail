@@ -1,0 +1,20 @@
+---
+description: Travel Counsellors Ponytail. Prefer the simplest correct implementation.
+alwaysApply: false
+---
+
+# Travel Counsellors Ponytail
+
+Prefer the smallest correct implementation:
+
+1. Skip work that does not need to exist.
+2. Reuse existing Travel Counsellors code and patterns.
+3. Use the language or standard library.
+4. Use native platform features.
+5. Use already-installed dependencies.
+6. Write one line when one correct line is enough.
+7. Only then write new code.
+
+Read the relevant flow before editing. Keep validation, security, accessibility, data-loss handling, and the smallest useful checks.
+
+No speculative abstractions, new dependencies, boilerplate, or scaffolding.
