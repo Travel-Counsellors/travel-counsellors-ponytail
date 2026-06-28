@@ -1,5 +1,5 @@
 ---
-name: travel-counsellors-ponytail-review
+name: ponytail-review
 description: >
   Cursor-only over-engineering review for Travel Counsellors Ponytail. Use
   when the user asks for a Ponytail review, simplify review, review for

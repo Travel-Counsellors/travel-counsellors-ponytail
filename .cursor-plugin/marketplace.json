@@ -1,0 +1,16 @@
+{
+  "name": "travel-counsellors",
+  "owner": {
+    "name": "Travel Counsellors"
+  },
+  "metadata": {
+    "description": "Travel Counsellors team Cursor plugins"
+  },
+  "plugins": [
+    {
+      "name": "ponytail",
+      "source": ".",
+      "description": "YAGNI skills for minimal, correct implementations"
+    }
+  ]
+}

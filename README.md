@@ -2,9 +2,17 @@
 
 Cursor plugin that keeps agents lazy in the good way: reuse existing code, prefer standard libraries and platform features, and ship the smallest correct diff.
 
-## Install
+## Team marketplace
 
-Clone into your local Cursor plugins directory:
+Import this repository as a team marketplace in Cursor:
+
+```text
+https://github.com/Travel-Counsellors/travel-counsellors-ponytail
+```
+
+Cursor reads `.cursor-plugin/marketplace.json` and registers the `ponytail` plugin. Skill IDs are prefixed with the team namespace, so they appear as `/travel-counsellors-ponytail`, `/travel-counsellors-ponytail-review`, and so on.
+
+## Local install
 
 ```bash
 git clone https://github.com/Travel-Counsellors/travel-counsellors-ponytail.git \
@@ -27,7 +35,7 @@ Natural language also works: "TC Ponytail", "lazy mode", "YAGNI", or "review for
 
 ## Optional rule
 
-Enable `travel-counsellors-ponytail` from **Customize** when the team wants the guidance available without invoking a skill.
+Enable `ponytail` from **Customize** when the team wants the guidance available without invoking a skill.
 
 ## Attribution
 

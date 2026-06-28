@@ -1,5 +1,5 @@
 ---
-name: travel-counsellors-ponytail-help
+name: ponytail-help
 description: >
   Quick Cursor reference for Travel Counsellors Ponytail skills. Use when the
   user asks how to use Travel Counsellors Ponytail, TC Ponytail help, or what
@@ -19,4 +19,4 @@ Available Cursor skills:
 
 Natural triggers also work: "TC Ponytail", "lazy mode", "simplest solution", "YAGNI", "review this for over-engineering", or "what can we delete?"
 
-The optional rule `travel-counsellors-ponytail` can be enabled from Cursor Customize when the team wants the guidance available without invoking a skill.
+The optional rule `ponytail` can be enabled from Cursor Customize when the team wants the guidance available without invoking a skill.

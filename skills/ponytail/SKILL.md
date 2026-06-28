@@ -1,5 +1,5 @@
 ---
-name: travel-counsellors-ponytail
+name: ponytail
 description: >
   Travel Counsellors Ponytail mode. Use when the user asks for Ponytail,
   TC Ponytail, lazy mode, the simplest solution, minimal code, YAGNI, less

@@ -1,5 +1,5 @@
 ---
-name: travel-counsellors-ponytail-debt
+name: ponytail-debt
 description: >
   Collect `ponytail:` comments into a debt ledger. Use when the user asks what
   shortcuts were deferred, wants the Ponytail debt ledger, or asks to list

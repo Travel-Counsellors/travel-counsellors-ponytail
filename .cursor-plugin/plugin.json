@@ -1,14 +1,15 @@
 {
-  "name": "travel-counsellors-ponytail",
+  "name": "ponytail",
   "displayName": "Travel Counsellors Ponytail",
   "description": "Cursor-only Ponytail skills for Travel Counsellors: prefer YAGNI, existing code, standard libraries, native platform features, and the smallest correct implementation.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "Travel Counsellors"
   },
   "license": "MIT",
+  "homepage": "https://github.com/Travel-Counsellors/travel-counsellors-ponytail",
+  "repository": "https://github.com/Travel-Counsellors/travel-counsellors-ponytail",
   "keywords": [
-    "travel-counsellors",
     "ponytail",
     "yagni",
     "minimalism",

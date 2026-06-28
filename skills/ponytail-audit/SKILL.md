@@ -1,5 +1,5 @@
 ---
-name: travel-counsellors-ponytail-audit
+name: ponytail-audit
 description: >
   Repo-wide Travel Counsellors Ponytail audit for over-engineering. Use when
   the user asks to audit a codebase for bloat, find what can be deleted,
@@ -28,7 +28,7 @@ One line per finding, ranked by impact:
 
 `<tag>: <what to cut>. <replacement>. [path]`
 
-Use the same tags as `travel-counsellors-ponytail-review`: `delete`, `reuse`, `stdlib`, `native`, `yagni`, `shrink`.
+Use the same tags as `ponytail-review`: `delete`, `reuse`, `stdlib`, `native`, `yagni`, `shrink`.
 
 End with `net: -<N> lines, -<M> deps possible.` If there is nothing meaningful to cut, say `Lean already. Ship.`
 
